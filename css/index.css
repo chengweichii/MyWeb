@@ -1,0 +1,26 @@
+﻿body {
+    overflow:hidden;
+}
+.pos{
+    position:relative;
+    overflow:hidden;
+}
+.logo {
+	position: absolute;
+	top: 195px;
+	left: 436px;
+	z-index: -1;
+}
+.loading {
+	position: absolute;
+	left: 703px;
+	top: 487px;
+	z-index: -2;
+}
+.img4 {
+	position: absolute;
+	left: 652px;
+	top: 28px;
+	opacity: 0.8;
+	z-index: -1;
+}
